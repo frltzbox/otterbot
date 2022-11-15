@@ -1,0 +1,3 @@
+nachricht vom user löschen
+bilder adden per dc
+    splice nachricht in json form fs
